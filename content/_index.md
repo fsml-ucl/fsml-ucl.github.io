@@ -68,17 +68,17 @@ sections:
       view: community/news
       columns: '2'
   - block: collection
-    id: publications 
+    id: publications
     content:
       title: Recent Publications
       count: 5
       text: |-
         {{% callout note %}}
-        See the full list [here](./publications/).
+        See the full list [here](./publication/).
         {{% /callout %}}
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       columns: '2'
