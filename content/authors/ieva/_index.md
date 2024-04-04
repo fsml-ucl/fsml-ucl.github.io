@@ -1,6 +1,6 @@
 ---
 title: Ieva Kazlauskaitė
-role: Senior Research Fellow
+role: IMSS Fellow
 bio: ""
 interests:
 social:

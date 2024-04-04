@@ -1,6 +1,6 @@
 ---
 title: Saifuddin Syed
-role: Research Fellow
+role: Florence Nightingale Bicentennial Fellow
 bio: ""
 interests:
 social:
