@@ -13,7 +13,7 @@ social:
     label: Follow me on Twitter
   - icon: graduation-cap
     icon_pack: fas
-    link: Associate Professor
+    link: https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/JeremiasKnoblauch
@@ -26,12 +26,12 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Permanent Academics
+  - Faculty
 status:
   icon: ""
-last_name: Knoblauch
+last_name: Briol
 highlight_name: false
-first_name: Jeremias
+first_name: François-Xavier
 ---
 <!-- BIO
 

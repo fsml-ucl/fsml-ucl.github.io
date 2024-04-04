@@ -1,15 +1,18 @@
 ---
-title: Kaiyu Li 
-role: PhD, 2019-2024
+title: Ayush Bharti
+role: Visitor, Autumn 2022
 bio: ""
 interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:    kaiyu.li.19@ucl.ac.uk'
+    link: 'ayush.bharti@aalto.fi'
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.dk/citations?user=6_7vkiUAAAAJ&hl
   - icon: globe
     icon_pack: fas
-    link: https://ceciliakaiyu.github.io
+    link: https://bharti-ayush.github.io/
 organizations:
   - name: 
     url: 
@@ -19,9 +22,9 @@ user_groups:
   - Alumni
 status:
   icon: ""
-last_name: Li
+last_name: Bharti
 highlight_name: false
-first_name: Kaiyu
+first_name: Ayush
 ---
 <!-- BIO
 

@@ -26,7 +26,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Permanent Academics
+  - Faculty
 status:
   icon: ""
 last_name: Knoblauch

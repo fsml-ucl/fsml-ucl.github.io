@@ -1,6 +1,6 @@
 ---
 title: Zhuo Sun
-role: PhD, 2020-2023
+role: PhD, 2019-2023
 bio: ""
 interests:
 social:
