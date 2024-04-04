@@ -1,5 +1,5 @@
 ---
-title: 'A Rigorous Link between Deep Ensembles and (Variational) Bayesian Methods'
+title: 'Generalized Bayesian Inference for Discrete Intractable Likelihood'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

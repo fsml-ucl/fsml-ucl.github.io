@@ -1,6 +1,6 @@
 ---
 title: Kaiyu Li 
-role: PhD Student
+role: PhD, 2020-2024
 bio: ""
 interests:
 social:
@@ -16,7 +16,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - PhD Students
+  - Alumni
 status:
   icon: ""
 last_name: Li

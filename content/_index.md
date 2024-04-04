@@ -21,12 +21,41 @@ sections:
   #         text_color_light: true
   #     spacing:
   #       padding: ['100px', '0', '100px', '0']
-  - block: about.avatar
+  - block: slider
+    content:
+      slides:
+      - title: Fundamentals of Statistical Machine Learning
+        content: Department of Statistical Science, UCL
+        align: center
+        background:
+          image:
+            filename: ucl.jpg
+            filters:
+              brightness: 0.3
+          position: right
+          color: '#666'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: 600px
+      is_fullscreen: false 
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+  - block: hero
     id: about
     content:
-      title: About
+      title: About us
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename: about2.png
+      text: |-
+        <br>
+        
+        The **Fundamentals of Statistical Machine Learning** group is a research group in the [UCL Department of Statistical Science](https://www.ucl.ac.uk/statistics/). Our focus is on the intersection of statistical inference and machine learning methodology and theory.
+  
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      # username: admin
     design:
       columns: '1'
   - block: people
@@ -66,12 +95,12 @@ sections:
     design:
       # Choose a layout view
       view: community/news
-      columns: '2'
+      columns: '1'
   - block: collection
     id: publications
     content:
       title: Recent Publications
-      count: 5
+      count: 10 
       # text: |-
       #   {{% callout note %}}
       #   See the full list [here](./publication/).
@@ -81,7 +110,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: accomplishments
     content:
