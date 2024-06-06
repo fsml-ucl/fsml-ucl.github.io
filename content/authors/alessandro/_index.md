@@ -6,7 +6,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:abarp@turing.ac.uk'
+    link: 'mailto:alessandro.barp@ucl.ac.uk'
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=D5y6_FsAAAAJ&hl=en
