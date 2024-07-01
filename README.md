@@ -1,1 +1,1 @@
-# [Fundamentals of Statistical Machine Learning group webpage](fsml.github.io)
+# [Fundamentals of Statistical Machine Learning group webpage](https://fsml-ucl.github.io/)
