@@ -1,15 +1,20 @@
 ---
-title: 'Robust and Conjugate Gaussian Process Regression'
+title: 'Outlier-robust Kalman Filtering through Generalised Bayes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Gerardo Duran-Martin
   - matias
-  - fx
+  - Alexander Y. Shestopaloff
+  - Leandro Sánchez-Betancourt
   - jeremias
+  - Matt Jones
+  - fx
+  - Kevin Murphy
 
-date: '2023-11-01T00:00:00Z'
+date: '2024-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +29,7 @@ publication_types: ['paper-conference']
 publication: In *International Conference on Machine Learning*
 publication_short: In *ICML*
 
-abstract: 'To enable closed form conditioning, a common assumption in Gaussian process (GP) regression is independent and identically distributed Gaussian observation noise. This strong and simplistic assumption is often violated in practice, which leads to unreliable inferences and uncertainty quantification. Unfortunately, existing methods for robustifying GPs break closed-form conditioning, which makes them less attractive to practitioners and significantly more computationally expensive. In this paper, we demonstrate how to perform provably robust and conjugate Gaussian process (RCGP) regression at virtually no additional cost using generalised Bayesian inference. RCGP is particularly versatile as it enables exact conjugate closed form updates in all settings where standard GPs admit them. To demonstrate its strong empirical performance, we deploy RCGP for problems ranging from Bayesian optimisation to sparse variational Gaussian processes. '
+abstract: 'We derive a novel, provably robust, and closed-form Bayesian update rule for online filtering in state-space models in the presence of outliers and misspecified measurement models. Our method combines generalised Bayesian inference with filtering methods such as the extended and ensemble Kalman filter. We use the former to show robustness and the latter to ensure computational efficiency in the case of nonlinear models. Our method matches or outperforms other robust filtering methods (such as those based on variational Bayes) at a much lower computational cost. We show this empirically on a range of filtering problems with outlier measurements, such as object tracking, state estimation in high-dimensional chaotic systems, and online learning of neural networks. '
 
 
 # Summary. An optional shortened abstract.
@@ -40,10 +45,10 @@ links:
   - icon:
     icon_pack: fas
     name: 'arXiv'
-    url: https://arxiv.org/abs/2311.00463
+    url: https://arxiv.org/abs/2405.05646
 
 url_pdf: ''
-url_code: 'https://github.com/maltamiranomontero/RCGP'
+url_code: 'https://github.com/gerdm/weighted-likelihood-filter'
 url_dataset: ''
 url_poster: ''
 url_project: ''
