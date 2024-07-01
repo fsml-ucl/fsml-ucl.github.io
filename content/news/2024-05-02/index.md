@@ -58,6 +58,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-One paper accepted at UAI 2024 on the topic of Bayesian quadrature for computing parametric expectations.
+One paper accepted at UAI 2024 on the topic of [Bayesian quadrature for computing parametric expectations](https://arxiv.org/abs/2406.16530).
 
  

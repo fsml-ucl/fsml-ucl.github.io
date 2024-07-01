@@ -58,6 +58,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Two papers accepted at ICML 2024. The papers are both on the topic of scalable generalised Bayes, one in the context of [Gaussian processes](https://arxiv.org/abs/2311.00463), and the other in the context of Kalman filtering.
+Two papers accepted at ICML 2024. The papers are both on the topic of scalable generalised Bayes, one in the context of [Gaussian processes](https://arxiv.org/abs/2311.00463), and the other in the context of [Kalman filtering](https://arxiv.org/abs/2405.05646).
 
  
