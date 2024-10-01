@@ -1,6 +1,6 @@
 ---
 title: Ieva Kazlauskaitė
-role: IMSS Fellow
+role: IMSS Fellow, 2023-2024
 bio: ""
 interests:
 social:
@@ -26,7 +26,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Postdoctoral Researchers
+  - Alumni
 status:
   icon: ""
 last_name: Kazlauskaitė
