@@ -126,6 +126,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
+          date_end: '2028-10-01'
+          date_start: '2024-10-01'
+          description: ''
+          icon: 
+          organization: Alan Turing Institute
+          organization_url:
+          title: 'Turing Project: “Bayesian Robustness in Filtering Algorithms” (PI: Briol)'
+          url: ''
+        - certificate_url: 
           date_end: '2027-02-28'
           date_start: '2024-03-01'
           description: ''

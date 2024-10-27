@@ -19,11 +19,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *Society for Industrial and Applied Mathematics Journal on Uncertainty Quantification*
+publication_short: In *SIAM JUQ*
 
 abstract: 'Gaussian process (GP) regression is a Bayesian nonparametric method for regression and interpolation, offering a principled way of quantifying the uncertainties of predicted function values. For the quantified uncertainties to be well-calibrated, however, the covariance kernel of the GP prior has to be carefully selected. In this paper, we theoretically compare two methods for choosing the kernel in GP regression: cross-validation and maximum likelihood estimation. Focusing on the scale-parameter estimation of a Brownian motion kernel in the noiseless setting, we prove that cross-validation can yield asymptotically well-calibrated credible intervals for a broader class of ground-truth functions than maximum likelihood estimation, suggesting an advantage of the former over the latter.'
 
