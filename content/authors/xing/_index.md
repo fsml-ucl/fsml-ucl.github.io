@@ -1,6 +1,6 @@
 ---
 title: Xing Liu
-role: PhD Student
+role: Visitor, 2023-2024
 bio: ""
 interests:
 social:

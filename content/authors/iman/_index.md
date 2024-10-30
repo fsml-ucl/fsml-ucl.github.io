@@ -7,6 +7,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:i.dzumgang@ucl.ac.uk'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/iman-simo-dzumgang-96365a254/
 organizations:
   - name: 
     url: 
