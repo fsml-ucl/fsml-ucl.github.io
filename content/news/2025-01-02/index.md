@@ -1,9 +1,11 @@
 ---
-title: Bloomberg Data Science fellowship
+title: Post-Bayesian online seminar series coming!
 event: ""
 event_url: ""
 authors:
+    - jeremias
     - matias
+    - yann
 
 # location: Wowchemy HQ
 # address:
@@ -18,17 +20,17 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-09T13:00:00Z'
+date: '2025-01-02T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-02T00:00:00Z'
 
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -58,4 +60,8 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Huge congratulations to Matias Altamirano for being awarded a prestigious [Bloomberg Data Science fellowship!](https://www.bloomberg.com/company/stories/introducing-the-seventh-cohort-of-bloomberg-data-science-ph-d-fellows-2024-2025/)
+[Jeremias](/authors/jeremias/), [Matias](/authors/matias/) and [Yann](/authors/yann/) are organizing the Post-Bayesian online seminar series.
+
+The series will discuss  cutting-edge methods for posteriors that no longer rely on Bayes Theorem (e.g., PAC-Bayes, generalised Bayes, Martingale posteriors, ...).
+
+To stay tuned, sign up at [this link](https://tinyurl.com/postBayes).

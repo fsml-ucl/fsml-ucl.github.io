@@ -1,9 +1,9 @@
 ---
-title: Bloomberg Data Science fellowship
+title: JumpTrading/ELLIS CSML seminar series
 event: ""
 event_url: ""
 authors:
-    - matias
+    - hudson
 
 # location: Wowchemy HQ
 # address:
@@ -18,7 +18,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-09T13:00:00Z'
+date: '2025-01-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -58,4 +58,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Huge congratulations to Matias Altamirano for being awarded a prestigious [Bloomberg Data Science fellowship!](https://www.bloomberg.com/company/stories/introducing-the-seventh-cohort-of-bloomberg-data-science-ph-d-fellows-2024-2025/)
+[Hudson](/authors/hudson/) is co-organizing the [JumpTrading/ELLIS CSML seminar series](https://ucl-ellis.github.io/jt_csml_seminar_home/) on Computational Statistics and Machine Learning for the [UCL ELLIS Unit](https://ucl-ellis.github.io/#page-top).
+
+Please feel free to [contact him](mailto:zonghao.chen.22@ucl.ac.uk) if you would like to give a talk.

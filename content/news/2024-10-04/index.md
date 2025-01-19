@@ -3,6 +3,7 @@ title: Promotion
 event: ""
 event_url: ""
 authors:
+    - jeremias
 
 # location: Wowchemy HQ
 # address:

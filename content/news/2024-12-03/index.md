@@ -1,9 +1,9 @@
 ---
-title: Bloomberg Data Science fellowship
+title: Data Science Symposium on “Computational Statistics and Machine Learning in the Sciences"
 event: ""
 event_url: ""
 authors:
-    - matias
+    - fx
 
 # location: Wowchemy HQ
 # address:
@@ -18,12 +18,12 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-09T13:00:00Z'
+date: '2024-12-03T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-12-03T00:00:00Z'
 
 tags: []
 
@@ -58,4 +58,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Huge congratulations to Matias Altamirano for being awarded a prestigious [Bloomberg Data Science fellowship!](https://www.bloomberg.com/company/stories/introducing-the-seventh-cohort-of-bloomberg-data-science-ph-d-fellows-2024-2025/)
+[F-X](/authors/fx/) organises _UCL Centre for Data Science Symposium on “Computational Statistics and Machine Learning in the Sciences”_.

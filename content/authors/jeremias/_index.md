@@ -1,6 +1,6 @@
 ---
 title: Jeremias Knoblauch
-role: 'Assistant Professor <br> EPSRC Fellow'
+role: 'Associate Professor'
 bio: ""
 interests:
 social:
