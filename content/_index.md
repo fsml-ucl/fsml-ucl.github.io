@@ -76,6 +76,18 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+  - block: markdown
+    id: seminars
+    content:
+      title: Tune-in to the Post-Bayesian Seminar Series!
+      text: |-
+        This seminar series explores "post-Bayesian" methods, which extend beyond traditional Bayesian inference to address its limitations in modern machine learning settings.
+
+        The seminar will run fortnightly from mid-February onwards. The first iteration of the series will be broken down into three ‘chapters’ consisting of between 4-6 talks in each chapter. Each chapter will focus on a different set of post-Bayesian ideas: generalised Bayes (led by [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/)), predictive resampling-based ideas like Martingale posteriors (led by [Edwin Fong](https://edfong.github.io/)), and PAC-Bayes (led by [Pierre Alquier](https://pierrealquier.github.io/index.html)). To make this useful for the entire community, the talks in each chapter will seek to cover some key aspects of literature conducted under that chapter.
+
+        For more information, please visit the [seminar series' web page](https://postbayes.github.io/seminar/) or register in the [seminar's mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=POSTBAYES).
+    design:
+      columns: '1'
   - block: collection
     id: news
     content:
