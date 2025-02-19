@@ -6,7 +6,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:c.dellaporta@warwick.ac.uk'
+    link: 'mailto:h.dellaporta@ucl.ac.uk'
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en
@@ -15,7 +15,7 @@ social:
     link: https://www.linkedin.com/in/harita-dellaporta-b3545b194/
   - icon: globe
     icon_pack: fas
-    link: https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/
+    link: https://haritadell.github.io/
 organizations:
   - name: 
     url: 
