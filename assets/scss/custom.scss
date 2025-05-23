@@ -1,0 +1,35 @@
+.custom-bluesky {
+  display: inline-block;
+  width: 1.2em; /* Adjust size as needed, relative to font size */
+  height: 1.2em; /* Adjust size as needed */
+  vertical-align: middle; /* Or adjust to align with other icons */
+  background-color: currentColor; /* This will use the theme's current text color */
+  -webkit-mask-image: url("/custom-icons/bluesky.svg"); /* Path from web root */
+  mask-image: url("/custom-icons/bluesky.svg"); /* Path from web root */
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+}
+
+/* Fallback for browsers that don't support mask-image well,
+   though most modern ones do. You might not need this,
+   or you could use background-image if your SVG has currentColor set
+   and its background is transparent.
+   If using background-image, ensure your SVG's fill="currentColor"
+   is working and the SVG itself doesn't have an opaque background.
+*/
+/*
+.custom-bluesky {
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle;
+  background-image: url("/custom-icons/bluesky.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+*/
