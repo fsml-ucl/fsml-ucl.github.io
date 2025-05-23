@@ -9,20 +9,20 @@ authors:
   - Daolang Huang
   - Samuel Kaski
   - fx
-date: '2024-10-10T00:00:00Z'
+date: '2025-02-17T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-10T00:00:00Z'
+publishDate: '2025-02-17T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short:
+publication: In Artificial Intelligence and Statistics Conference
+publication_short: In AISTATS
 
 abstract: 'Simulation-based inference (SBI) is the preferred framework for estimating parameters of intractable models in science and engineering. A significant challenge in this context is the large computational cost of simulating data from complex models, and the fact that this cost often depends on parameter values. We therefore propose \textit{cost-aware SBI methods} which can significantly reduce the cost of existing sampling-based SBI methods, such as neural SBI and approximate Bayesian computation. This is achieved through a combination of rejection and self-normalised importance sampling, which significantly reduces the number of expensive simulations needed. Our approach is studied extensively on models from epidemiology to telecommunications engineering, where we obtain significant reductions in the overall cost of inference.'
 
