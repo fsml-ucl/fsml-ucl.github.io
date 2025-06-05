@@ -1,10 +1,11 @@
 ---
-title: Two papers accepted at AISTATS
+title: Advances in post-Bayesian methods - Workshop 2025
 event: ""
 event_url: ""
 authors:
-    - fx
     - jeremias
+    - matias
+    - yann
 
 # location: Wowchemy HQ
 # address:
@@ -19,7 +20,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-02-01T13:00:00Z'
+date: '2025-05-20T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -59,7 +60,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Two papers from the group accepted at AISTATS 2025:
-
-- [**Prediction-Centric Uncertainty Quantification with MMD**](/publication/shen2025predictioncentricuncertaintyquantificationmmd/)
-- [**Cost-aware simulation based inference**](/publication/bharti2024costawaresimulationbasedinference/)
+We’re thrilled that the [Advances in Post-Bayesian Methods workshop](https://postbayes.github.io/workshop2025/) was such a success, with **over 120 attendees** and fantastic talks!  
+You can now watch all the talks [here](https://tinyurl.com/AdvPostBayes).

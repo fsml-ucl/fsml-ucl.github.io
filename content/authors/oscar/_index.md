@@ -1,6 +1,6 @@
 ---
 title: Oscar Key
-role: PhD Student
+role: PhD, 2020-2025
 bio: ""
 interests:
 social:
@@ -22,7 +22,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - PhD Students
+  - Alumni
 status:
   icon: ""
 last_name: Key

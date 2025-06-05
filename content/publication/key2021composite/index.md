@@ -21,10 +21,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *arXiv*'
-publication_short: In *arXiv*
+publication: 'In *Journal of Machine Learning Research*'
+publication_short: In *JMLR*
 
-abstract: "Model misspecification can create significant challenges for the implementation of probabilistic models, and this has led to development of a range of robust methods which directly account for this issue. However, whether these more involved methods are required will depend on whether the model is really misspecified, and there is a lack of generally applicable methods to answer this question. In this paper, we propose one such method. More precisely, we propose kernel-based hypothesis tests for the challenging composite testing problem, where we are interested in whether the data comes from any distribution in some parametric family. Our tests make use of minimum distance estimators based on the maximum mean discrepancy and the kernel Stein discrepancy. They are widely applicable, including whenever the density of the parametric model is known up to normalisation constant, or if the model takes the form of a simulator. As our main result, we show that we are able to estimate the parameter and conduct our test on the same data (without data splitting), while maintaining a correct test level. Our approach is illustrated on a range of problems, including testing for goodness-of-fit of an unnormalised non-parametric density model, and an intractable generative model of a biological cellular network. ."
+abstract: "We propose kernel-based hypothesis tests for the challenging composite testing problem, where we are interested in whether the data comes from any distribution in some parametric family. Our tests make use of minimum distance estimators based on kernel-based distances such as the maximum mean discrepancy. As our main result, we show that we are able to estimate the parameter and conduct our test on the same data (without data splitting), while maintaining a correct test level. We also prove that the popular wild bootstrap will lead to an overly conservative test, and show that the parametric bootstrap is consistent and can lead to significantly improved performance in practice. Our approach is illustrated on a range of problems, including testing for goodness-of-fit of a non-parametric density model, and an intractable generative model of a biological cellular network."
 
 
 # Summary. An optional shortened abstract.
@@ -39,8 +39,8 @@ featured: false
 links:
   - icon:
     icon_pack: fas
-    name: 'arXiv'
-    url: https://arxiv.org/abs/2111.10275
+    name: 'jmlr'
+    url: https://www.jmlr.org/papers/v26/24-0276.html
 
 url_pdf: ''
 url_code: 
