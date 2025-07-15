@@ -153,7 +153,7 @@ sections:
           icon: 
           organization: Bloomberg L.P.
           organization_url: https://www.bloomberg.com/company/stories/introducing-the-seventh-cohort-of-bloomberg-data-science-ph-d-fellows-2024-2025/
-          title: 'Bloomberg Data Science Ph.D. Fellowship Program’ (PI: Altamirano)'
+          title: 'Bloomberg Data Science Ph.D. Fellowship Program (PI: Altamirano)'
           url: ''
         - certificate_url: 
           date_end: '2027-02-28'
