@@ -1,6 +1,6 @@
 ---
 title: François-Xavier Briol
-role: Associate Professor
+role: Professor of Statistics and Machine Learning
 bio: ""
 interests:
 social:
