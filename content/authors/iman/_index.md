@@ -15,8 +15,7 @@ organizations:
     url: 
 email: ""
 superuser: true
-user_groups:
-  - PhD Students
+user_groups: ""
 status:
   icon: ""
 last_name: Simo-Dzumgang

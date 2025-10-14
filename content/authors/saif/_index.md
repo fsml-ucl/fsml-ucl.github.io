@@ -18,8 +18,7 @@ organizations:
     url: 
 email: ""
 superuser: true
-user_groups:
-  - Visiting Researchers
+user_groups: ""
 status:
   icon: ""
 last_name: Syed
