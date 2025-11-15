@@ -1,36 +1,36 @@
 ---
-title: Abdelhamid Ezzerg
-role: PhD Student
+title: Joshua Rooijakkers
+role: Visiting Researcher
 bio: ""
 interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:abdelhamid.ezzerg.24@ucl.ac.uk'
+    link: 'mailto:joshua.rooijakkers@outlook.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/EZZERG
+    link: https://github.com/joshuarooijakkers
   - icon: globe
     icon_pack: fas
-    link: https://ezzerg.github.io/
+    link: https://joshuarooijakkers.github.io/
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=Sltvi4AAAAAJ&hl
+    link: https://scholar.google.com/citations?user=V7f5li4AAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/abdelhamid-ezzerg-274437a6/
+    link: https://www.linkedin.com/in/joshuarooijakkers/
 organizations:
   - name: 
     url: 
 email: ""
 superuser: true
 user_groups:
-  - PhD Students
+  - Visiting Researchers
 status:
   icon: ""
-last_name: Ezzerg
+last_name: Rooijakkers
 highlight_name: false
-first_name: Abdelhamid
+first_name: Joshua
 ---
 <!-- BIO
 

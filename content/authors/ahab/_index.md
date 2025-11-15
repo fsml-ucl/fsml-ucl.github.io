@@ -10,6 +10,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ahabisaax
+  - icon: globe
+    icon_pacl: fas
+    link: https://ahabisaax.github.io/
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=PvdKNxoAAAAJ&hl
 organizations:
   - name: 
     url: 
