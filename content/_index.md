@@ -77,6 +77,20 @@ sections:
       show_role: true
       show_social: true
   - block: markdown
+    content:
+      title: ""
+      text: |
+        <div class="group-photos-row">
+          <img src="/media/group_photos/IMG_0461.jpg" alt="Group photo 1">
+          <img src="/media/group_photos/IMG_2131.jpg" alt="Group photo 2">
+          <img src="/media/group_photos/IMG_5655.JPG" alt="Group photo 3">
+          <img src="/media/group_photos/IMG_6043.jpg" alt="Group photo 4">
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['0', '0', '0', '0']
+  - block: markdown
     id: seminars
     content:
       title: Tune-in to the Post-Bayesian Seminar Series!
