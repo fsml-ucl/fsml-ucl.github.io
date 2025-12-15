@@ -160,13 +160,23 @@ sections:
           organization_url:
           title: 'Turing Project: “Bayesian Robustness in Filtering Algorithms” (PI: Briol)'
           url: ''
+        - certificate_url:
+          date_end: '2027-10-26'
+          date_start: '2025-10-27'
+          description: ''
+          icon: 
+          organization: UKRI
+          organization_url:
+          title: 'UCL EPSRC Postdoctoral Pathway Fellowships (formerly Doctoral Prize Fellowships) (PI: Naslidnyk)'
+          url: 'https://www.ucl.ac.uk/epsrc-doctoral-training/post-doctoral-funding/ucl-epsrc-postdoctoral-pathway-fellowships-formerly-doctoral-prize-fellowships'
+
         - certificate_url: 
           # Grant number: UKRI3030
           date_end: '2026-03-31'
           date_start: '2025-11-01'
           description: ''
           icon: 
-          organization: UCL
+          organization: UKRI
           organization_url: 
           title: 'UCL EPSRC-funded Post-doctoral Extension Award. Project on "Reliable Insights from Scientific Simulators” (PI: Dellaporta)'
           url: ''
