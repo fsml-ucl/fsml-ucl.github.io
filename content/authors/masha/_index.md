@@ -1,6 +1,6 @@
 ---
 title: Masha Naslidnyk 
-role: PhD Student
+role: Postdoctoral Researcher
 bio: ""
 interests:
 social:
@@ -26,7 +26,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - PhD Students
+  - Postdoctoral Researchers
 status:
   icon: ""
 last_name: Naslidnyk
