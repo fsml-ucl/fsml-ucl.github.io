@@ -7,8 +7,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:oscar.key.20@ucl.ac.uk'
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=B1RUOVwAAAAJ
   - icon: github
     icon_pack: fab

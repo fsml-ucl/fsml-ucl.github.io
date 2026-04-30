@@ -11,8 +11,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/IevaKazlauskai
     label: Follow me on Twitter
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=_ItyW58AAAAJ#
   - icon: github
     icon_pack: fab

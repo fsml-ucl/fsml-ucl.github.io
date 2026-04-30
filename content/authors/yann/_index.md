@@ -7,8 +7,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yann.mclatchie.23@ucl.ac.uk'
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=o7AsZ38AAAAJ
   - icon: github
     icon_pack: fab

@@ -4,8 +4,8 @@ role: PhD, 2019-2023
 bio: ""
 interests:
 social:
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=l-latzQAAAAJ&view_op=list_works&gmla=AJsN-F5cIjrZTnm5u1sYLeEYjonSK-65f4ZDVAybOLmd4VmL0cyfdKeNeJPK2KiX2dzpiqtrlJ5-FYMqRnccrvduQHnMhO-uCDJqnrdDK6t7QGnHlHrrNSJbTXkvCC6K89NPkpqH9o5S
   - icon: globe
     icon_pack: fas

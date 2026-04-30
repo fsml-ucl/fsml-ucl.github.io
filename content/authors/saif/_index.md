@@ -7,8 +7,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:saifuddin.syed@stats.ox.ac.uk'
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=R8ULnXoAAAAJ&hl=en
   - icon: globe
     icon_pack: fas

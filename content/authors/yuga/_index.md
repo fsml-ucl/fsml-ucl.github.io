@@ -11,8 +11,8 @@ social:
     icon_pack: custom
     link: https://bsky.app/profile/yugahikida.bsky.social
     label: Follow me on Bluesky
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=jvKJHacAAAAJ
     label: Google Scholar
   - icon: globe

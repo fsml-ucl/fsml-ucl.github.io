@@ -11,8 +11,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/@xingliu97
     label: Follow me on Twitter
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en
   - icon: github
     icon_pack: fab

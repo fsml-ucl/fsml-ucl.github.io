@@ -13,8 +13,8 @@ social:
   - icon: globe
     icon_pacl: fas
     link: https://ahabisaax.github.io/
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=PvdKNxoAAAAJ&hl
 organizations:
   - name: 

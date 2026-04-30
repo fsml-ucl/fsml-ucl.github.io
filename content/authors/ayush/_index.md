@@ -7,8 +7,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'ayush.bharti@aalto.fi'
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.dk/citations?user=6_7vkiUAAAAJ&hl
   - icon: globe
     icon_pack: fas
