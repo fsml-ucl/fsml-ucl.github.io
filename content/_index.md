@@ -29,11 +29,11 @@ sections:
         align: center
         background:
           image:
-            filename: ucl.jpg
+            filename: ucl-quad.jpeg
             filters:
-              brightness: 0.3
+              brightness: 0.7
           position: right
-          color: '#666'
+          color: 'rgba(0, 0, 0, 0.18)'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: 500px
