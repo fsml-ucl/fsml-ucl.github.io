@@ -1,6 +1,6 @@
 ---
 title: Ilina Yozova
-role: PhD Student
+role: PhD, 2021-2026
 bio: ""
 interests:
 social:

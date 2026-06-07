@@ -1,36 +1,36 @@
 ---
-title: Joshua Rooijakkers
-role: Visitor 2025
+title: Can Rager
+role: PhD Student
 bio: ""
 interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:joshua.rooijakkers@outlook.com'
+    link: 'mailto:can.rager@proton.me'
   - icon: github
     icon_pack: fab
-    link: https://github.com/joshuarooijakkers
+    link: https://github.com/canrager
   - icon: globe
     icon_pack: fas
-    link: https://joshuarooijakkers.github.io/
+    link: https:/canrager.com
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=V7f5li4AAAAJ
+    link: https://scholar.google.com/citations?user=dzbnS2UAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/joshuarooijakkers/
+    link: linkedin.com/in/canrager
 organizations:
   - name: 
     url: 
 email: ""
 superuser: true
 user_groups:
-  - Alumni
+  - PhD Students
 status:
   icon: ""
-last_name: Rooijakkers
+last_name: Rager
 highlight_name: false
-first_name: Joshua
+first_name: Can
 ---
 <!-- BIO
 

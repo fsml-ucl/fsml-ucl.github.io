@@ -1,5 +1,5 @@
 ---
-title: Pre-ICML @ London 2026.
+title: Welcome Can Rager!
 event: ""
 event_url: ""
 authors:
@@ -18,7 +18,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-07-02T13:00:00Z'
+date: '2026-05-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -58,4 +58,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-[Louis](/authors/louis/) and [F-X](/authors/fx/) are co-organisers of the [Pre-ICML @ London 2026 event](https://sites.google.com/view/pre-icml-london-2026), which brings together members of the London machine learning community for a day of talks and posters.
+Welcome to [Can Rager](/authors/can/), who joins the group as a PhD student working with Alessandro.

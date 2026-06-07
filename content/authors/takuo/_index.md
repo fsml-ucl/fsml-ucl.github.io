@@ -1,24 +1,24 @@
 ---
-title: Joshua Rooijakkers
-role: Visitor 2025
+title: Takuo Matsubara
+role: Visitor, 2019-2023
 bio: ""
 interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:joshua.rooijakkers@outlook.com'
+    link: 'mailto:takuo.matsubara@sydney.edu.au'
   - icon: github
     icon_pack: fab
-    link: https://github.com/joshuarooijakkers
+    link: https://github.com/takuomatsubara
   - icon: globe
     icon_pack: fas
-    link: https://joshuarooijakkers.github.io/
+    link: https://sites.google.com/view/takuomatsubara/home
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=V7f5li4AAAAJ
+    link: https://scholar.google.com/citations?user=htGgB6wAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/joshuarooijakkers/
+    link: https://www.linkedin.com/in/takuomatsubara/
 organizations:
   - name: 
     url: 
@@ -28,9 +28,9 @@ user_groups:
   - Alumni
 status:
   icon: ""
-last_name: Rooijakkers
+last_name: Matsubara
 highlight_name: false
-first_name: Joshua
+first_name: Takuo
 ---
 <!-- BIO
 

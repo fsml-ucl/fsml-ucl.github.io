@@ -1,5 +1,5 @@
 ---
-title: Pre-ICML @ London 2026.
+title: "Workshop on Non-Equilibrium Sampling: Diffusions - Flows - Particles."
 event: ""
 event_url: ""
 authors:
@@ -18,7 +18,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-07-02T13:00:00Z'
+date: '2026-09-02T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -58,4 +58,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-[Louis](/authors/louis/) and [F-X](/authors/fx/) are co-organisers of the [Pre-ICML @ London 2026 event](https://sites.google.com/view/pre-icml-london-2026), which brings together members of the London machine learning community for a day of talks and posters.
+[Louis](/authors/louis) is co-organising a workshop on [Non-Equilibrium Sampling — Diffusions, Flows, Particles](https://sites.google.com/view/newcastle-non-equilibrium-samp/home) to be held at Newcastle University on 2–4 September 2026. You can register your interest for the workshop [here](https://docs.google.com/forms/d/e/1FAIpQLSdgN7lWsYge6ddlYZBS_GBz0h0N92qxk29FAFjVWZs4IU8Wvw/viewform).
