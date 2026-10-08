@@ -1,6 +1,6 @@
 ---
 title: Ieva Kazlauskaitė
-role: IMSS Fellow, 2023-2024
+role: Postdoc, 2023-2024
 bio: ""
 interests:
 social:
