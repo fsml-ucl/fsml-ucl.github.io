@@ -4,9 +4,6 @@ role: Visitor, 2023-2024
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:xing.liu16@imperial.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/@xingliu97
