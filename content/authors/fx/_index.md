@@ -21,9 +21,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/JeremiasKnoblauch
   - icon: globe
     icon_pack: fas
     link: https://fxbriol.github.io/
