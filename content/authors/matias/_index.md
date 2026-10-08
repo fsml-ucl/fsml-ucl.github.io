@@ -4,9 +4,6 @@ role: PhD, 2022-2026
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:matias.altamirano.22@ucl.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/matialtamiranom
