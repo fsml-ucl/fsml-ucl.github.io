@@ -7,6 +7,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zixiao.hu.24@ucl.ac.uk'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=vpeySTkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/zixiao-h
