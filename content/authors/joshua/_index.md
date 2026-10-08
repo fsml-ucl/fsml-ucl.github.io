@@ -4,9 +4,6 @@ role: Visitor 2025
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:joshua.rooijakkers@outlook.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/joshuarooijakkers
