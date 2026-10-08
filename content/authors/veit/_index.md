@@ -4,9 +4,6 @@ role: Visitor, Autumn 2023
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:veit.wild@stats.ox.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=gUUTqicAAAAJ&hl=en
