@@ -21,7 +21,7 @@ status:
   icon: ""
 last_name: Chen
 highlight_name: false
-first_name: Zonghao (Hudson)
+first_name: Zonghao
 ---
 <!-- BIO
 
