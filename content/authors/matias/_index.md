@@ -1,6 +1,6 @@
 ---
 title: Matias Altamirano
-role: PhD Student, 2022-2026
+role: PhD, 2022-2026
 bio: ""
 interests:
 social:
