@@ -4,9 +4,6 @@ role: PhD, 2021-2026
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:ilina.yozova.18@ucl.ac.uk'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ilina-yozova-38b6ba169/
