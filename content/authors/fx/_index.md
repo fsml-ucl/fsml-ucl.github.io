@@ -7,6 +7,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:f.briol@ucl.ac.uk'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en
+  - icon: globe
+    icon_pack: fas
+    link: https://fxbriol.github.io/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/fxbriol/
@@ -18,12 +24,6 @@ social:
     icon_pack: custom
     link: https://bsky.app/profile/fxbriol.bsky.social
     label: Follow me on Bluesky
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en
-  - icon: globe
-    icon_pack: fas
-    link: https://fxbriol.github.io/
 organizations:
   - name: 
     url: 
