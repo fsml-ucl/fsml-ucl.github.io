@@ -13,6 +13,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/arina-odnoblyudova-79ab99158/
+  - icon: globe
+    icon_pack: fas
+    link: https://jularina.github.io/arina-odv-web/
 organizations:
   - name: 
     url: 
