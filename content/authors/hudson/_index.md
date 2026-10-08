@@ -10,6 +10,9 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://hudsonchen.github.io/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=yivqCH8AAAAJ&hl=en
 organizations:
   - name: 
     url: 
