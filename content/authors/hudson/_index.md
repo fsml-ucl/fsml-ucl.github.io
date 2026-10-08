@@ -4,9 +4,6 @@ role: PhD Student, 2022-2026
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:zonghao.chen.22@ucl.ac.uk'
   - icon: github
     icon_pack: fab
     link: https://github.com/hudsonchen
