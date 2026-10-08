@@ -7,6 +7,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:seulkang0518@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=_8jRcRoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/seulkang0518
