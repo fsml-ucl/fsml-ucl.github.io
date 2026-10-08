@@ -4,9 +4,6 @@ role: Visitor, 2019-2023
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:takuo.matsubara@sydney.edu.au'
   - icon: github
     icon_pack: fab
     link: https://github.com/takuomatsubara
