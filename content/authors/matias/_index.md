@@ -1,6 +1,6 @@
 ---
 title: Matias Altamirano
-role: PhD Student
+role: PhD Student, 2022-2026
 bio: ""
 interests:
 social:
@@ -26,7 +26,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - PhD Students
+  - Alumni
 status:
   icon: ""
 last_name: Altamirano
