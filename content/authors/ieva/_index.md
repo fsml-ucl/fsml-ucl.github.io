@@ -4,9 +4,6 @@ role: IMSS Fellow, 2023-2024
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:i.kazlauskaite@ucl.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/IevaKazlauskai
