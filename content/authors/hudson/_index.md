@@ -1,6 +1,6 @@
 ---
-title: Zonghao (Hudson) Chen
-role: PhD Student, 2022-2026
+title: Zonghao Chen
+role: PhD, 2022-2026
 bio: ""
 interests:
 social:
