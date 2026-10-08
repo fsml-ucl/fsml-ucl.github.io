@@ -4,9 +4,6 @@ role: PhD, 2019-2024
 bio: ""
 interests:
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:    kaiyu.li.19@ucl.ac.uk'
   - icon: globe
     icon_pack: fas
     link: https://ceciliakaiyu.github.io
