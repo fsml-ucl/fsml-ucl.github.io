@@ -196,8 +196,8 @@ sections:
           title: 'EPSRC Small Grant in the Mathematical Sciences, Project on “Robust Foundations for Bayesian Inference” (PI: Briol, co-I: Knoblauch)'
           url: ''
         - certificate_url: 
-          date_end: '2025-12-31'
-          date_start: '2024-01-01'
+          date_end: '2028-07-31'
+          date_start: '2026-08-01'
           description: ''
           icon: 
           organization: UKRI
