@@ -10,7 +10,7 @@ authors:
   - fx
   - jeremias
   - matias
-date: '2025-10-30T00:00:00Z'
+date: '2026-05-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,11 +19,11 @@ publishDate: '2025-10-30T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short:
+publication: In *Neural Information Processing Systems 2026*
+publication_short: In *NeurIPS 2026*
 
 abstract: 'Multi-output Gaussian process (MOGP) regression allows modelling dependencies among multiple correlated response variables. Similarly to standard Gaussian processes, MOGPs are sensitive to model misspecification and outliers, which can distort predictions within individual outputs. This situation can be further exacerbated by multiple anomalous response variables whose errors propagate due to correlations between outputs. To handle this situation, we extend and generalise the robust and conjugate Gaussian process (RCGP) framework introduced by Altamirano et al. (2024). This results in the multi-output RCGP (MO-RCGP): a provably robust MOGP that is conjugate, and jointly captures correlations across outputs. We thoroughly evaluate our approach through applications in finance and cancer research.'
 
