@@ -61,6 +61,6 @@ projects: []
 Four papers from the group accepted at ICML 2026:
 
 - [**Stationary MMD points**](/publication/chen2026stationarymmdpoint/)
-- **Thinned mean field Langevin dynamics**
+- [**Thinned mean field Langevin dynamics**](/publication/chen2026thinnedmeanfieldlangevin/)
 - [**Robust Bayesian optimisation with unbounded corruptions**](/publication/ezzerg2026robustbayesianoptimisationunbounded/)
 - [**TabMGP: Martingale posterior with TabPFN**](/publication/ng2026tabmgpmartingaleposteriortabpfn/)
