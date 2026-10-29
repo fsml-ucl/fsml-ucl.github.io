@@ -7,6 +7,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:marta.piperno.26@ucl.ac.uk'
+  - icon: globe
+    icon_pack: fas
+    link: https://martapip.github.io
   - icon: github
     icon_pack: fab
     link: https://github.com/MartaPip
